@@ -1,15 +1,14 @@
 Sistema de Cadastro de Pessoas
 ===================
 
-Exemplo de sistema de Cadastro:
-IDE: Eclipse.
-Postman
-Git
-BackEnd: Java - SpringBoot
-FrontEnd: Angular 8
-Banco de Dados: Postgres.
+IDE: Eclipse.<br>
+Postman<Br>
+Git<Br>
+BackEnd: Java - SpringBoot<br>
+FrontEnd: Angular 8<br>
+Banco de Dados: Postgres.<br>
 
-## Funcionalidades.
+# Funcionalidades.
 1.  Listagem de Todos os CPF cadastrados.
 2.	Buscar por CPF.
 3.	Listagem de todos os CPF cadastrados.
