@@ -16,9 +16,9 @@ Banco de Dados: Postgres.
 4.	Deletar um CPF do cadastro.
 5.	Atualizar dados de um CPF cadastrado.
   
-  EndPoints BackEnd:
-	- buscarTodosCadastros: http://localhost:8080/api/cadastro/list
-	- buscarCadastroPorCpf: http://localhost:8080/api/cadastro/id/cpf
-	- salvarCadastro: http://localhost:8080/api/cadastro/save
-	- deleteCadastro: http://localhost:8080/api/cadastro/delete/cpf
-	- putNutricionista: http://localhost:8080/api/cadastro/put/cpf
+  EndPoints BackEnd:<br>
+	- buscarTodosCadastros: http://localhost:8080/api/cadastro/list <br>
+	- buscarCadastroPorCpf: http://localhost:8080/api/cadastro/id/cpf<Br>
+	- salvarCadastro: http://localhost:8080/api/cadastro/save<br>
+	- deleteCadastro: http://localhost:8080/api/cadastro/delete/cpf<br>
+	- putNutricionista: http://localhost:8080/api/cadastro/put/cpf<br>
